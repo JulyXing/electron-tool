@@ -1,0 +1,8 @@
+*.*
+
+!.gitignore
+!*.html
+!*.css
+!*.css.map
+!*.min.js
+!*.min.js.map

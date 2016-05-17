@@ -1,0 +1,19 @@
+{
+    "name": "electron-tool",
+    "descriptopn": "window electron-tool",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "electron index.js"
+    },
+    "author": "JulyXing",
+    "email": "julyxing@163.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JulyXing/electron-tool.git"
+    },
+    "license": "GPL 3.0+",
+    "homepage": "https://github.com/JulyXing/electron-tool#readme",
+    "devDependencies": {
+        "electron-prebuilt": "^1.0.1"
+    }
+}
